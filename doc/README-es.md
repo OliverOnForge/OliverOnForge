@@ -14,7 +14,7 @@
 
 Soy ingeniero mecatrónico con formación en automatización, diseño mecánico y electrónica. He integrado habilidades artísticas y multimedia a mi flujo de trabajo técnico: modelado 3D, ilustración digital, animacion y producción musical. Escribo código como programador junior y actúo como puente entre requisitos técnicos y personas no técnicas.
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/header-es.svg" width="100%" alt=" ">
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
 
 ## Perfil central
 
@@ -22,6 +22,8 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - Autodidacta en desarrollo de software (Python, JavaScript, frontend básico).
 - Producción multimedia (Blender, Krita, Ableton).
 - Trabajo en proyectos multidisciplinarios con profesionales de diversas áreas: ingeniería, software, diseño, arte, psicología, medicina, entre otras.
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
 
 ## Resumen de habilidades técnicas
 
@@ -76,6 +78,8 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - Actuadores
 - Osciloscopio
 
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+
 ## Entornos donde trabajo cómodamente
 
 - Equipos diversos y multidisciplinarios, con perfiles técnicos y no técnicos.
@@ -84,6 +88,8 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - Ritmo flexible orientado a resultados, con margen para explorar soluciones no convencionales.
 - Empresas pequeñas o medianas, estudios creativos, laboratorios de innovación, o equipos de investigación.
 
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+
 ## Estado de proyectos
 
 **En desarrollo:**
@@ -91,6 +97,8 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 **Solo Revisiones:**
 
 **En Planeación:**
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
 
 ## Contacto
 

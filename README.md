@@ -14,12 +14,16 @@
 
 I am a Mechatronics Engineer with a background in automation, mechanical design, and electronics. I have integrated artistic and multimedia skills into my technical workflow: 3D modeling, digital illustration, animation, and music production. I write code as a junior developer and act as a bridge between technical requirements and non-technical stakeholders.
 
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+
 ## Core Profile
 
 - Background in Mechatronics Engineering (automation, CAD, microcontrollers, sensors).
 - Self-taught in software development (Python, JavaScript, basic frontend).
 - Multimedia production (Blender, Krita, Ableton).
 - Experienced in multidisciplinary projects with professionals from various fields: engineering, software, design, art, psychology, medicine, and more.
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
 
 ## Technical Skills Summary
 
@@ -66,6 +70,8 @@ I am a Mechatronics Engineer with a background in automation, mechanical design,
 - Actuators
 - Oscilloscope
 
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+
 ## Environments where I thrive
 
 - Diverse and multidisciplinary teams, involving both technical and non-technical profiles.
@@ -74,6 +80,8 @@ I am a Mechatronics Engineer with a background in automation, mechanical design,
 - Results-oriented flexible pace, with room to explore unconventional solutions.
 - Small to medium-sized companies, creative studios, innovation labs, or research teams.
 
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+
 ## Project Status
 
 **In Development:**
@@ -81,6 +89,8 @@ I am a Mechatronics Engineer with a background in automation, mechanical design,
 **Maintenance/Revision Only:**
 
 **In Planning:**
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
 
 ## Contact
 
