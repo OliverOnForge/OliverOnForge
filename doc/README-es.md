@@ -19,28 +19,44 @@
 
 <img src="../assets/border-up.svg" width="100%" alt=" ">
 
-<h2 align="center">Perfil central</h2>
+<h2 align="center">PERFIL CENTRAL</h2>
 
-- Formación en ingeniería mecatrónica (automatización, CAD, microcontroladores, sensores).
-- Autodidacta en desarrollo de software (Python, JavaScript, frontend básico).
-- Producción multimedia (Blender, Krita, Ableton).
-- Trabajo en proyectos multidisciplinarios con profesionales de diversas áreas: ingeniería, software, diseño, arte, psicología, medicina, entre otras.
+- Ingeniería Mecatrónica: Diseño y automatización de sistemas que integran mecánica, electrónica y control (CAD, sensores y microcontroladores) para resolver problemas físicos y de procesos.
+- Desarrollo de Software: Creación de herramientas digitales y aplicaciones funcionales (Python, JavaScript, Frontend), traduciendo requisitos lógicos en código eficiente y usable.
+- Producción Multimedia: Desarrollo de activos visuales y sonoros de alta calidad (Modelado 3D con Blender, ilustración en Krita, audio en Ableton) para comunicación técnica o creativa.
+- Colaboración Multidisciplinaria: Capacidad de actuar como enlace entre especialistas de diversas áreas (medicina, arte, ingeniería), asegurando que las ideas se entiendan y se ejecuten correctamente sin importar la barrera técnica.
 
 <img src="../assets/border-dn.svg" width="100%" alt=" ">
 
 <img src="../assets/border-up.svg" width="100%" alt=" ">
 
-<h2 align="center">Resumen de habilidades técnicas</h2>
+<h2 align="center">HABILIDADES TECNICAS</h2>
 
-**Lenguajes de programación:** - Python
-- JavaScript
-- HTML/CSS
-- JSON/YAML.  
-- C++
-- Assembly
-- MATLAB
+**Software y Desarrollo Digital**
+Desarrollaré aplicaciones, herramientas y lógica de datos eficiente con:
 
-<h2 align="center">Entornos donde trabajo cómodamente</h2>
+- Lenguajes:** Python, JavaScript, HTML/CSS, JSON/YAML.
+- Bases de Datos:** SQLite, TinyDB, SQL, Diseño Relacional.
+- Entorno Pro:** Git, GitHub, VS Code, Shell de Linux.
+
+**Hardware, Control y Automatización**
+Diseñaré sistemas físicos, mecanismos y procesos automatizados con:
+
+- Diseño Mecánico (CAD/CAM): SolidWorks, SolidEdge, AutoCAD, CNC.
+- Electrónica y Control: Arduino, PIC, PLC, LabVIEW.
+- Instrumentación: Sensores, Actuadores, Osciloscopio, MATLAB.
+
+**Multimedia y Diseño Creativo**
+Crearé interfaces, visuales atractivos y experiencias sonoras con:**
+
+- Gráficos y 3D: Blender (Modelado/Animación), Krita, Inkscape, Gimp, Enve.
+- Producción de Audio: LMMS, Ableton Live, FL Studio.
+
+<img src="../assets/border-dn.svg" width="100%" alt=" ">
+
+<img src="../assets/border-up.svg" width="100%" alt=" ">
+
+<h2 align="center">ECOSISTEMAS DE TRABAJO</h2>
 
 - Equipos diversos y multidisciplinarios, con perfiles técnicos y no técnicos.
 - Proyectos donde el software se combina con otras disciplinas: arte, salud, educación, ciencias sociales o comunicación.
@@ -50,7 +66,7 @@
 
 <img src="../assets/border-up.svg" width="100%" alt=" ">
 
-<h2 align="center">Estado de proyectos</h2>
+<h2 align="center">PROYECTOS</h2>
 
 **En desarrollo:**
 
@@ -62,7 +78,7 @@
 
 <img src="../assets/border-up.svg" width="100%" alt=" ">
 
-<h2 align="center">Contacto</h2>
+<h2 align="center">CONTACTO</h2>
 
 <p align="center">
   📧 <b>Correo:</b> <a href="mailto:doc.oliveroe95@gmail.com">doc.oliveroe95@gmail.com</a><br>
