@@ -14,6 +14,8 @@
 
 Soy ingeniero mecatrónico con formación en automatización, diseño mecánico y electrónica. He integrado habilidades artísticas y multimedia a mi flujo de trabajo técnico: modelado 3D, ilustración digital, animacion y producción musical. Escribo código como programador junior y actúo como puente entre requisitos técnicos y personas no técnicas.
 
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/header-es.svg" width="100%" alt=" ">
+
 ## Perfil central
 
 - Formación en ingeniería mecatrónica (automatización, CAD, microcontroladores, sensores).
