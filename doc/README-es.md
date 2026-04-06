@@ -10,11 +10,15 @@
   </a>
 </p>
 
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/ornament-up.svg" width="100%" alt=" ">
+
 # Sobre mi
 
 Soy ingeniero mecatrónico con formación en automatización, diseño mecánico y electrónica. He integrado habilidades artísticas y multimedia a mi flujo de trabajo técnico: modelado 3D, ilustración digital, animacion y producción musical. Escribo código como programador junior y actúo como puente entre requisitos técnicos y personas no técnicas.
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/ornament-dn.svg" width="100%" alt=" ">
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
 
 ## Perfil central
 
@@ -23,7 +27,9 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - Producción multimedia (Blender, Krita, Ableton).
 - Trabajo en proyectos multidisciplinarios con profesionales de diversas áreas: ingeniería, software, diseño, arte, psicología, medicina, entre otras.
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
 
 ## Resumen de habilidades técnicas
 
@@ -78,7 +84,9 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - Actuadores
 - Osciloscopio
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
 
 ## Entornos donde trabajo cómodamente
 
@@ -88,7 +96,9 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - Ritmo flexible orientado a resultados, con margen para explorar soluciones no convencionales.
 - Empresas pequeñas o medianas, estudios creativos, laboratorios de innovación, o equipos de investigación.
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
 
 ## Estado de proyectos
 
@@ -98,10 +108,14 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 
 **En Planeación:**
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
 
 ## Contacto
 
 - Correo: doc.oliveroe95@gmail.com
 - GitHub: [https://github.com/OliverOnForge](https://github.com/OliverOnForge)
 - LinkedIn: [https://www.linkedin.com/in/oliveronforge](https://github.com/OliverOnForge)
+
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
