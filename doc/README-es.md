@@ -32,12 +32,12 @@
 
 <h2 align="center">HABILIDADES TECNICAS</h2>
 
-**Software y Desarrollo Digital**
+**Software y Programacion**
 Desarrollaré aplicaciones, herramientas y lógica de datos eficiente con:
 
-- Lenguajes:** Python, JavaScript, HTML/CSS, JSON/YAML.
-- Bases de Datos:** SQLite, TinyDB, SQL, Diseño Relacional.
-- Entorno Pro:** Git, GitHub, VS Code, Shell de Linux.
+- Lenguajes: Python, C++, JavaScript, HTML/CSS, JSON/YAML.
+- Bases de Datos: SQLite, TinyDB, SQL, Diseño Relacional.
+- Entorno: Git, GitHub, VS Code, Shell de Linux.
 
 **Hardware, Control y Automatización**
 Diseñaré sistemas físicos, mecanismos y procesos automatizados con:
