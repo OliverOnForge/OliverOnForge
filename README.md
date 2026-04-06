@@ -1,88 +1,69 @@
-
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/header-en.svg" width="100%" alt="Oliver Olguin, Mechatronics Engineer">
+<img src="assets/header-en.svg" width="100%" alt="Oliver Olguin, Mechatronics Engineer">
 
 <p align="center">
-  <a href="https://github.com/OliverOnForge/OliverOnForge/blob/main/README.md">
-    <img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/en-select.svg" alt="English Version" width="100">
+  <a href="README.md">
+    <img src="assets/en-select.svg" alt="English Version" width="150">
   </a>
-  <a href="https://github.com/OliverOnForge/OliverOnForge/blob/main/doc/README-es.md">
-    <img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/es-unselect.svg" alt="Versión en Español" width="100">
+  <a href="doc/README-es.md">
+    <img src="assets/es-unselect.svg" alt="Spanish Version" width="150">
   </a>
 </p>
 
-# About me
+<img src="assets/ornament-up.svg" width="100%" alt=" ">
 
-I am a Mechatronics Engineer with a background in automation, mechanical design, and electronics. I have integrated artistic and multimedia skills into my technical workflow: 3D modeling, digital illustration, animation, and music production. I write code as a junior developer and act as a bridge between technical requirements and non-technical stakeholders.
+<h1 align="center">About me</h1>
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<p>I am a Mechatronics Engineer with a background in automation, mechanical design, and electronics. I have integrated artistic and multimedia skills into my technical workflow: 3D modeling, digital illustration, animation, and music production. I write code as a junior developer and act as a bridge between technical requirements and non-technical stakeholders.</p>
 
-## Core Profile
+<img src="assets/ornament-dn.svg" width="100%" alt=" ">
 
-- Background in Mechatronics Engineering (automation, CAD, microcontrollers, sensors).
-- Self-taught in software development (Python, JavaScript, basic frontend).
-- Multimedia production (Blender, Krita, Ableton).
-- Experienced in multidisciplinary projects with professionals from various fields: engineering, software, design, art, psychology, medicine, and more.
+<img src="assets/border-up.svg" width="100%" alt=" ">
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<h2 align="center">CORE PROFILE</h2>
 
-## Technical Skills Summary
+- **Mechatronics Engineering:** Design and automation of systems integrating mechanics, electronics, and control (CAD, sensors, and microcontrollers) to solve physical and process-related problems.
+- **Software Development:** Creation of digital tools and functional applications (Python, JavaScript, Frontend), translating logical requirements into efficient and usable code.
+- **Multimedia Production:** Development of high-quality visual and audio assets (3D Modeling with Blender, illustration in Krita, audio in Ableton) for technical or creative communication.
+- **Multidisciplinary Collaboration:** Ability to act as a liaison between specialists from various fields (medicine, art, engineering), ensuring ideas are understood and executed correctly regardless of technical barriers.
 
-**Programming Languages:** - Python
-- JavaScript
-- HTML/CSS
-- JSON/YAML
-- C++
-- Assembly
-- MATLAB
+<img src="assets/border-dn.svg" width="100%" alt=" ">
 
-**Databases:**
+<img src="assets/border-up.svg" width="100%" alt=" ">
 
-- SQLite
-- TinyDB
-- SQL
-- Relational Design
+<h2 align="center">TECHNICAL SKILLS</h2>
 
-**Development Tools:**
+**Software and Programming:** I will develop efficient applications, tools, and data logic with:
 
-- Git
-- GitHub
-- VS Code
-- Linux Shell
+- Languages: Python, C++, JavaScript, HTML/CSS, JSON/YAML.
+- Databases: SQLite, TinyDB, SQL, Relational Design.
+- Environment: Git, GitHub, VS Code, Linux Shell.
 
-**CAD & Mechanical Design:** - SolidWorks
-- SolidEdge
-- AutoCAD
-- CNC
+**Hardware, Control, and Automation:** I will design physical systems, mechanisms, and automated processes with:
 
-**Multimedia & Art:** - Blender
-- Krita
-- Inkscape
-- Gimp
-- Enve  
-- FL Studio
-- Ableton
+- Mechanical Design (CAD/CAM): SolidWorks, SolidEdge, AutoCAD, CNC.
+- Electronics and Control: Arduino, PIC, PLC, LabVIEW.
+- Instrumentation: Sensors, Actuators, Oscilloscope, MATLAB.
 
-**Automation & Electronics:** - Arduino
-- PIC
-- PLC
-- LabVIEW
-- Sensors
-- Actuators
-- Oscilloscope
+**Multimedia and Creative Design:** I will create interfaces, attractive visuals, and sound experiences with:
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+- Graphics and 3D: Blender (Modeling/Animation), Krita, Inkscape, Gimp, Enve.
+- Audio Production: LMMS, Ableton Live, FL Studio.
 
-## Environments where I thrive
+<img src="assets/border-dn.svg" width="100%" alt=" ">
+
+<img src="assets/border-up.svg" width="100%" alt=" ">
+
+<h2 align="center">WORK ECOSYSTEMS</h2>
 
 - Diverse and multidisciplinary teams, involving both technical and non-technical profiles.
 - Projects where software intersects with other disciplines: art, health, education, social sciences, or communication.
 - Workspaces that value clear communication between engineering, other sciences, and humanities or creative fields.
-- Results-oriented flexible pace, with room to explore unconventional solutions.
-- Small to medium-sized companies, creative studios, innovation labs, or research teams.
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<img src="assets/border-dn.svg" width="100%" alt=" ">
 
-## Project Status
+<img src="assets/border-up.svg" width="100%" alt=" ">
+
+<h2 align="center">PROJECTS</h2>
 
 **In Development:**
 
@@ -90,10 +71,16 @@ I am a Mechatronics Engineer with a background in automation, mechanical design,
 
 **In Planning:**
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/separator.svg" width="100%" alt=" ">
+<img src="assets/border-dn.svg" width="100%" alt=" ">
 
-## Contact
+<img src="assets/border-up.svg" width="100%" alt=" ">
 
-- Email: doc.oliveroe95@gmail.com
-- GitHub: [https://github.com/OliverOnForge](https://github.com/OliverOnForge)
-- LinkedIn: [https://www.linkedin.com/in/oliveronforge](https://www.linkedin.com/in/oliveronforge)
+<h2 align="center">CONTACT</h2>
+
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:doc.oliveroe95@gmail.com">doc.oliveroe95@gmail.com</a><br>
+  🐙 <b>GitHub:</b> <a href="https://github.com/OliverOnForge">OliverOnForge</a><br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/oliveronforge">oliveronforge</a>
+</p>
+
+<img src="assets/border-dn.svg" width="100%" alt=" ">

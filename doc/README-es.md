@@ -21,10 +21,10 @@
 
 <h2 align="center">PERFIL CENTRAL</h2>
 
-- Ingeniería Mecatrónica: Diseño y automatización de sistemas que integran mecánica, electrónica y control (CAD, sensores y microcontroladores) para resolver problemas físicos y de procesos.
-- Desarrollo de Software: Creación de herramientas digitales y aplicaciones funcionales (Python, JavaScript, Frontend), traduciendo requisitos lógicos en código eficiente y usable.
-- Producción Multimedia: Desarrollo de activos visuales y sonoros de alta calidad (Modelado 3D con Blender, ilustración en Krita, audio en Ableton) para comunicación técnica o creativa.
-- Colaboración Multidisciplinaria: Capacidad de actuar como enlace entre especialistas de diversas áreas (medicina, arte, ingeniería), asegurando que las ideas se entiendan y se ejecuten correctamente sin importar la barrera técnica.
+- **Ingeniería Mecatrónica:** Diseño y automatización de sistemas que integran mecánica, electrónica y control (CAD, sensores y microcontroladores) para resolver problemas físicos y de procesos.
+- **Desarrollo de Software:** Creación de herramientas digitales y aplicaciones funcionales (Python, JavaScript, Frontend), traduciendo requisitos lógicos en código eficiente y usable.
+- **Producción Multimedia:** Desarrollo de activos visuales y sonoros de alta calidad (Modelado 3D con Blender, ilustración en Krita, audio en Ableton) para comunicación técnica o creativa.
+- **Colaboración Multidisciplinaria:** Capacidad de actuar como enlace entre especialistas de diversas áreas (medicina, arte, ingeniería), asegurando que las ideas se entiendan y se ejecuten correctamente sin importar la barrera técnica.
 
 <img src="../assets/border-dn.svg" width="100%" alt=" ">
 
@@ -32,22 +32,19 @@
 
 <h2 align="center">HABILIDADES TECNICAS</h2>
 
-**Software y Programacion**
-Desarrollaré aplicaciones, herramientas y lógica de datos eficiente con:
+**Software y Programacion:** Desarrollaré aplicaciones, herramientas y lógica de datos eficiente con:
 
 - Lenguajes: Python, C++, JavaScript, HTML/CSS, JSON/YAML.
 - Bases de Datos: SQLite, TinyDB, SQL, Diseño Relacional.
 - Entorno: Git, GitHub, VS Code, Shell de Linux.
 
-**Hardware, Control y Automatización**
-Diseñaré sistemas físicos, mecanismos y procesos automatizados con:
+**Hardware, Control y Automatización:** Diseñaré sistemas físicos, mecanismos y procesos automatizados con:
 
 - Diseño Mecánico (CAD/CAM): SolidWorks, SolidEdge, AutoCAD, CNC.
 - Electrónica y Control: Arduino, PIC, PLC, LabVIEW.
 - Instrumentación: Sensores, Actuadores, Osciloscopio, MATLAB.
 
-**Multimedia y Diseño Creativo**
-Crearé interfaces, visuales atractivos y experiencias sonoras con:**
+**Multimedia y Diseño Creativo:** Crearé interfaces, visuales atractivos y experiencias sonoras con:**
 
 - Gráficos y 3D: Blender (Modelado/Animación), Krita, Inkscape, Gimp, Enve.
 - Producción de Audio: LMMS, Ableton Live, FL Studio.
