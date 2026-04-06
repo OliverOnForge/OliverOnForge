@@ -1,12 +1,12 @@
 
-<img src="assets/header.svg" width="100%" alt="Oliver Olguin, Ingeniero mecatronico">
+<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/header-es.svg" width="100%" alt="Oliver Olguin, Ingeniero mecatronico">
 
 <p align="center">
     <a href="URL_DE_TU_README_INGLES">
-    <img src="assets/en-unselect.svg" alt="English Version" width="150">
+    <img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/en-unselect.svg" alt="English Version" width="150">
   </a>
   <a href="URL_DE_TU_README_ESPAÑOL">
-    <img src="assets/es-select.svg" alt="Versión en Español" width="150">
+    <img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/es-select.svg" alt="Versión en Español" width="150">
   </a>
 </p>
 
