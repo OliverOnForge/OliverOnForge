@@ -1,41 +1,44 @@
-
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/header-es.svg" width="100%" alt="Oliver Olguin, Ingeniero mecatronico">
+<img src="assets/header-es.svg" width="100%" alt="Oliver Olguin, Ingeniero mecatronico">
 
 <p align="center">
-    <a href="https://github.com/OliverOnForge/OliverOnForge/blob/main/README.md">
-    <img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/en-unselect.svg" alt="English Version" width="150">
+  <a href="README.md">
+    <img src="assets/en-unselect.svg" alt="English Version" width="150">
   </a>
-  <a href="https://github.com/OliverOnForge/OliverOnForge/blob/main/doc/README-es.md">
-    <img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/es-select.svg" alt="Versión en Español" width="150">
+  <a href="doc/README-es.md">
+    <img src="assets/es-select.svg" alt="Versión en Español" width="150">
   </a>
 </p>
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/ornament-up.svg" width="100%" alt=" ">
+<img src="assets/ornament-up.svg" width="100%" alt=" ">
 
-# Sobre mi
+<p align="center">
+  <h1>Sobre mi</h1>
+</p>
 
-Soy ingeniero mecatrónico con formación en automatización, diseño mecánico y electrónica. He integrado habilidades artísticas y multimedia a mi flujo de trabajo técnico: modelado 3D, ilustración digital, animacion y producción musical. Escribo código como programador junior y actúo como puente entre requisitos técnicos y personas no técnicas.
+<p>Soy ingeniero mecatrónico con formación en automatización, diseño mecánico y electrónica. He integrado habilidades artísticas y multimedia a mi flujo de trabajo técnico: modelado 3D, ilustración digital, animacion y producción musical. Escribo código como programador junior y actúo como puente entre requisitos técnicos y personas no técnicas.</p>
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/ornament-dn.svg" width="100%" alt=" ">
+<img src="assets/ornament-dn.svg" width="100%" alt=" ">
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
+<img src="assets/border-up.svg" width="100%" alt=" ">
 
-## Perfil central
+<p align="center">
+  <h2>Perfil central</h2>
+</p>
 
 - Formación en ingeniería mecatrónica (automatización, CAD, microcontroladores, sensores).
 - Autodidacta en desarrollo de software (Python, JavaScript, frontend básico).
 - Producción multimedia (Blender, Krita, Ableton).
 - Trabajo en proyectos multidisciplinarios con profesionales de diversas áreas: ingeniería, software, diseño, arte, psicología, medicina, entre otras.
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+<img src="assets/border-dn.svg" width="100%" alt=" ">
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
+<img src="assets/border-up.svg" width="100%" alt=" ">
 
-## Resumen de habilidades técnicas
+<p align="center">
+  <h2>Resumen de habilidades técnicas</h2>
+</p>
 
-**Lenguajes de programación:**  
-
-- Python
+**Lenguajes de programación:** - Python
 - JavaScript
 - HTML/CSS
 - JSON/YAML.  
@@ -57,16 +60,12 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - VS Code
 - Shell de linux
 
-**CAD y diseño mecánico:**  
-
-- SolidWorks
+**CAD y diseño mecánico:** - SolidWorks
 - SolidEdge
 - AutoCAD
 - CNC
 
-**Multimedia y arte:**  
-
-- Blender
+**Multimedia y arte:** - Blender
 - Krita
 - Inkscape
 - Gimp
@@ -74,9 +73,7 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - FL Studio
 - Ableton
 
-**Automatización y electrónica:**  
-
-- Arduino
+**Automatización y electrónica:** - Arduino
 - PIC
 - PLC
 - LabVIEW
@@ -84,11 +81,13 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - Actuadores
 - Osciloscopio
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+<img src="assets/border-dn.svg" width="100%" alt=" ">
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
+<img src="assets/border-up.svg" width="100%" alt=" ">
 
-## Entornos donde trabajo cómodamente
+<p align="center">
+  <h2>Entornos donde trabajo cómodamente</h2>
+</p>
 
 - Equipos diversos y multidisciplinarios, con perfiles técnicos y no técnicos.
 - Proyectos donde el software se combina con otras disciplinas: arte, salud, educación, ciencias sociales o comunicación.
@@ -96,26 +95,26 @@ Soy ingeniero mecatrónico con formación en automatización, diseño mecánico 
 - Ritmo flexible orientado a resultados, con margen para explorar soluciones no convencionales.
 - Empresas pequeñas o medianas, estudios creativos, laboratorios de innovación, o equipos de investigación.
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+<img src="assets/border-dn.svg" width="100%" alt=" ">
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
+<img src="assets/border-up.svg" width="100%" alt=" ">
 
-## Estado de proyectos
+<p align="center">
+  <h2>Proyectos</h2>
+</p>
 
-**En desarrollo:**
+<img src="assets/border-dn.svg" width="100%" alt=" ">
 
-**Solo Revisiones:**
+<img src="assets/border-up.svg" width="100%" alt=" ">
 
-**En Planeación:**
+<p align="center">
+  <h2>Contacto</h2>
+</p>
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+<p align="center">
+  📧 <b>Correo:</b> <a href="mailto:doc.oliveroe95@gmail.com">doc.oliveroe95@gmail.com</a><br>
+  🐙 <b>GitHub:</b> <a href="https://github.com/OliverOnForge">OliverOnForge</a><br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/oliveronforge">oliveronforge</a>
+</p>
 
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-up.svg" width="100%" alt=" ">
-
-## Contacto
-
-- Correo: doc.oliveroe95@gmail.com
-- GitHub: [https://github.com/OliverOnForge](https://github.com/OliverOnForge)
-- LinkedIn: [https://www.linkedin.com/in/oliveronforge](https://github.com/OliverOnForge)
-
-<img src="https://github.com/OliverOnForge/OliverOnForge/blob/main/assets/border-dn.svg" width="100%" alt=" ">
+<img src="assets/border-dn.svg" width="100%" alt=" ">
