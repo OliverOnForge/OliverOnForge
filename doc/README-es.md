@@ -113,11 +113,11 @@
 
 <h2 align="center">PROYECTOS</h2>
 
-**En Desarrollo:**
+- [anvas-playground](https://github.com/OliverOnForge/canvas-playground): Sitio de pruebas y errores en canvas.
 
-**Solo Mantenimiento/Revisión:**
+- [vecswap](https://github.com/OliverOnForge/vecswap): Una biblioteca ligera para python pensda para trabajar con vectores.
 
-**En Planificación:**
+- [pattern-blueprints](https://github.com/OliverOnForge/pattern-blueprints): Patrones de dieseño de software aplicado a problemas de ingenieria.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/border-dn-wt.svg">
