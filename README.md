@@ -1,23 +1,47 @@
-<img src="assets/header-en.svg" width="100%" alt="Oliver Olguin, Mechatronics Engineer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-en-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-en-bk.svg">
+  <img src="assets/header-en-bk.svg" width="100%" alt="Oliver Olguin, Mechatronics Engineer">
+</picture>
 
 <p align="center">
   <a href="README.md">
-    <img src="assets/en-select.svg" alt="English Version" width="150">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/en-select-wt.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/en-select-bk.svg">
+      <img src="assets/en-select-bk.svg" alt="English Version" width="150">
+    </picture>
   </a>
   <a href="doc/README-es.md">
-    <img src="assets/es-unselect.svg" alt="Spanish Version" width="150">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/es-unselect-wt.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/es-unselect-bk.svg">
+      <img src="assets/es-unselect-bk.svg" alt="Spanish Version" width="150">
+    </picture>
   </a>
 </p>
 
-<img src="assets/ornament-up.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ornament-up-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ornament-up-bk.svg">
+  <img src="assets/ornament-up-bk.svg" width="100%" alt=" ">
+</picture>
 
 <h1 align="center">About me</h1>
 
 <p>I am a Mechatronics Engineer with a background in automation, mechanical design, and electronics. I have integrated artistic and multimedia skills into my technical workflow: 3D modeling, digital illustration, animation, and music production. I write code as a junior developer and act as a bridge between technical requirements and non-technical stakeholders.</p>
 
-<img src="assets/ornament-dn.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ornament-dn-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ornament-dn-bk.svg">
+  <img src="assets/ornament-dn-bk.svg" width="100%" alt=" ">
+</picture>
 
-<img src="assets/border-up.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-up-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-up-bk.svg">
+  <img src="assets/border-up-bk.svg" width="100%" alt=" ">
+</picture>
 
 <h2 align="center">CORE PROFILE</h2>
 
@@ -26,9 +50,17 @@
 - **Multimedia Production:** Development of high-quality visual and audio assets (3D Modeling with Blender, illustration in Krita, audio in Ableton) for technical or creative communication.
 - **Multidisciplinary Collaboration:** Ability to act as a liaison between specialists from various fields (medicine, art, engineering), ensuring ideas are understood and executed correctly regardless of technical barriers.
 
-<img src="assets/border-dn.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-dn-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-dn-bk.svg">
+  <img src="assets/border-dn-bk.svg" width="100%" alt=" ">
+</picture>
 
-<img src="assets/border-up.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-up-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-up-bk.svg">
+  <img src="assets/border-up-bk.svg" width="100%" alt=" ">
+</picture>
 
 <h2 align="center">TECHNICAL SKILLS</h2>
 
@@ -49,9 +81,17 @@
 - Graphics and 3D: Blender (Modeling/Animation), Krita, Inkscape, Gimp, Enve.
 - Audio Production: LMMS, Ableton Live, FL Studio.
 
-<img src="assets/border-dn.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-dn-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-dn-bk.svg">
+  <img src="assets/border-dn-bk.svg" width="100%" alt=" ">
+</picture>
 
-<img src="assets/border-up.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-up-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-up-bk.svg">
+  <img src="assets/border-up-bk.svg" width="100%" alt=" ">
+</picture>
 
 <h2 align="center">WORK ECOSYSTEMS</h2>
 
@@ -59,9 +99,17 @@
 - Projects where software intersects with other disciplines: art, health, education, social sciences, or communication.
 - Workspaces that value clear communication between engineering, other sciences, and humanities or creative fields.
 
-<img src="assets/border-dn.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-dn-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-dn-bk.svg">
+  <img src="assets/border-dn-bk.svg" width="100%" alt=" ">
+</picture>
 
-<img src="assets/border-up.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-up-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-up-bk.svg">
+  <img src="assets/border-up-bk.svg" width="100%" alt=" ">
+</picture>
 
 <h2 align="center">PROJECTS</h2>
 
@@ -71,9 +119,17 @@
 
 **In Planning:**
 
-<img src="assets/border-dn.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-dn-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-dn-bk.svg">
+  <img src="assets/border-dn-bk.svg" width="100%" alt=" ">
+</picture>
 
-<img src="assets/border-up.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-up-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-up-bk.svg">
+  <img src="assets/border-up-bk.svg" width="100%" alt=" ">
+</picture>
 
 <h2 align="center">CONTACT</h2>
 
@@ -83,4 +139,8 @@
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/oliveronforge">oliveronforge</a>
 </p>
 
-<img src="assets/border-dn.svg" width="100%" alt=" ">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/border-dn-wt.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/border-dn-bk.svg">
+  <img src="assets/border-dn-bk.svg" width="100%" alt=" ">
+</picture>
